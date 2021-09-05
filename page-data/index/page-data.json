@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"July 23, 2021","title":"My First Post"},"id":"f2e13cc8-70d9-5b1e-a375-edbb7c7106a8","slug":"first-blog"}]},"site":{"siteMetadata":{"title":"joe-ryan.io"}}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"July 23, 2021","title":"Dummy blog post"},"id":"f2e13cc8-70d9-5b1e-a375-edbb7c7106a8","slug":"first-blog"}]},"site":{"siteMetadata":{"title":"joe-ryan.io"}}},"pageContext":{}},
     "staticQueryHashes": []}
