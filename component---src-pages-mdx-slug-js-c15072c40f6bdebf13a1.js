@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkjoe_ryan_io_project=self.webpackChunkjoe_ryan_io_project||[]).push([[711],{8399:function(e,t,o){o.r(t);var l=o(7294),n=o(2122);t.default=function(){return l.createElement(n.Z,{pageTitle:"Super Cool Blog Posts"},l.createElement("p",null,"My blog post contents will go here (eventually)."))}}}]);
-//# sourceMappingURL=component---src-pages-mdx-slug-js-c15072c40f6bdebf13a1.js.map

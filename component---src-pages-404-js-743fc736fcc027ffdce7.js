@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkjoe_ryan_io_project=self.webpackChunkjoe_ryan_io_project||[]).push([[883],{9616:function(e,n,r){r.r(n);var l=r(7294),t=r(85);n.default=function(){return l.createElement(t.Z,null,l.createElement("p",null,"Sorry"," ",l.createElement("span",{role:"img","aria-label":"Pensive emoji"},"😔")," ","we couldn’t find what you were looking for.",l.createElement("br",null)))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-743fc736fcc027ffdce7.js.map
